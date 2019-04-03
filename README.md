@@ -2,6 +2,6 @@
 Скрипт был написан на заказ для администрации Samp-Rp. Его задача заключалась в том, чтобы выдавать игрокам в зоне стрима настраиваемый набор оружия.
 В связи с недавним обновлением, когда были добавлены пикапы для взятия оружия, скрипт более неактуален и может быть интересен лишь начинающим скриптерам.
 # Скриншоты
-![https://i.imgur.com/4lO5UFB.png?1](https://i.imgur.com/4lO5UFB.png?1)
-![https://i.imgur.com/81bzIjX.png?1](https://i.imgur.com/81bzIjX.png?1)
+![https://i.imgur.com/4lO5UFB.png?1](https://i.imgur.com/4lO5UFB.png?1)  
+![https://i.imgur.com/81bzIjX.png?1](https://i.imgur.com/81bzIjX.png?1)  
 ![https://i.imgur.com/TXEdk5u.png?1](https://i.imgur.com/TXEdk5u.png?1)
